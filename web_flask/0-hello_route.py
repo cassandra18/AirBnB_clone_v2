@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 A simple Flask web application that greets with 'Hello HBNB'
 """
